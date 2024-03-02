@@ -42,7 +42,7 @@ public class Schedulerservice {
 	}
 	
 	
-	private final String url = "jdbc:postgresql://10.11.0.113/postgres";
+	private final String url = "jdbc:postgresql://localhost/postgres";
     private final String user = "postgres";
     private final String password = "postgres";
 
